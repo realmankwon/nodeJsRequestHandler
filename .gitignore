@@ -57,4 +57,4 @@ typings/
 .env
 
 # server address config file
-lib/database_new.js
+lib/config/database_new.js
